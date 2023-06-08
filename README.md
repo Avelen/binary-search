@@ -6,3 +6,5 @@ What is the maximum number of checks it can take?
 Suppose the size of the list is doubled. How would the maximum number of checks change?
 
 The answer in this code.
+
+Link to preview https://avelen.github.io/binary-search/
